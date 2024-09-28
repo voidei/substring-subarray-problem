@@ -1,4 +1,4 @@
-def find_max(arr: list[int], max_sum: int):
+def find_max(arr: list[int]):
     res: int = arr[0]
 
     for i in range(len(arr)):
